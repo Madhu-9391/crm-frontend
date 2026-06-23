@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/api/*"
-  to = "https://papaya-cannoli-9599e5.netlify.app"
+  to = "https://netlify.app"
   status = 200
   force = true
